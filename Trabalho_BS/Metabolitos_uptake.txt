@@ -1,9 +1,0 @@
-asn_L - L-Asparagine
-cit_e - Citrate
-etoh_e - Ethanol
-fe3_e - Fe3+ (ferro)
-glyc_e - Glycerol
-h_e - H+
-o2_e - O2
-pi_e - Phosphate
-so4_e - Sulfate
