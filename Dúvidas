@@ -1,5 +1,4 @@
-1b: Robustez: quer dizer que como o minimo e máximo são praticamente 0, como é no caso do FBA, então o modelo é robusto. Certo?
-1c : o que são "reduced_costs" quando fazemos optimize()? Depois de fva=0.20, os valores dos fluxos de secreção dos metabolitos praticamente não se alteraram. As alterações foram: ac_e de 1.303 para 1.314; acald_e de 0.1162 para 0.1035; co2_e de 0.4708 para 0.4455; for_e de 3.03 para 3.055; fum_e de 0.08469 para 0.08471 e h_e de 42.63 para 42.68 (todos fluxos com unidades). Ou seja, como a produção dos metabolitos manteve-se igual, esses metabolitos são todos essenciais para a produção da biomassa. certo?
+ quando fazemos optimize()? Depois de fva=0.20, os valores dos fluxos de secreção dos metabolitos praticamente não se alteraram. As alterações foram: ac_e de 1.303 para 1.314; acald_e de 0.1162 para 0.1035; co2_e de 0.4708 para 0.4455; for_e de 3.03 para 3.055; fum_e de 0.08469 para 0.08471 e h_e de 42.63 para 42.68 (todos fluxos com unidades). Ou seja, como a produção dos metabolitos manteve-se igual, esses metabolitos são todos essenciais para a produção da biomassa. certo?
 1d: como os fluxos do composto mantêm se em 0, significa que a deleçao de genes (1 a 1) não faz diferença  nenhuma. certo?
 
 Milk medium
